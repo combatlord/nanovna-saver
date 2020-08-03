@@ -1,4 +1,5 @@
 /venv/
+/env/
 .idea
 .vscode
 /build/
@@ -9,3 +10,4 @@
 *.cal
 settings.json
 .gitignore
+.coverage
